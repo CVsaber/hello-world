@@ -25,8 +25,8 @@
 1.[点击这里链接到我的博客](https://blog.csdn.net/u014421797)
 
 ### 只显示图片
-<center>   
-<img src="4.jpg" align=center width="25%" height="25%" />
+<center align=center>   
+<img src="4.jpg" align="center" width="25%" height="25%" />
 Figure 1. 幸福
 </center>
 
