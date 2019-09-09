@@ -32,4 +32,4 @@
 
 [![image]](http://www.github.com/)
 
-[image]: 4.jpg
+[image]: 4.jpg{width=40px height=400px}
