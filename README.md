@@ -25,11 +25,13 @@
 1.[点击这里链接到我的博客](https://blog.csdn.net/u014421797)
 
 ### 只显示图片
-<a href="url"><img src="4.jpg" align="left" height="48" width="48" ></a>
-<img src="4.jpg" width="48">
+<center>
+<img src="4.jpg" width="25%" height="25%" />
+Figure 1. 幸福
+</center>
 
 ### 想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 
 [![image]](http://www.github.com/)
 
-[image]: 4.jpg width=40px height=400px
+[image]: 4.jpg
