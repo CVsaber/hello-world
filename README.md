@@ -33,8 +33,4 @@
 
 ### 想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 
-[![image]](http://www.github.com/)
-
-[image]: 4.jpg
-
-<a href="http://www.github.com/"><img src="4.jpg" align="center" height="480" width="480" ></a>
+<a href="http://www.github.com/"><img src="4.jpg" align="center"  width="480" ></a>
