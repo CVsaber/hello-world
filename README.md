@@ -25,9 +25,9 @@
 1.[点击这里链接到我的博客](https://blog.csdn.net/u014421797)
 
 ### 只显示图片
-<center align=center>   
-<div align=center><img src="4.jpg" align="center" width="25%" height="25%" /> 
-<Figure 1. 幸福> </div> 
+<center>   
+<div align=center><img src="4.jpg" align="center" width="25%" height="25%" alt="Figure 1. 幸福"/> 
+ </div> 
 </center>
 
 ### 想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
