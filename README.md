@@ -27,7 +27,7 @@
 ### 只显示图片
 <center align=center>   
 <div align=center><img src="4.jpg" align="center" width="25%" height="25%" />
-Figure 1. 幸福
+/Figure 1. 幸福
     </div>
 </center>
 
