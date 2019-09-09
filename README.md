@@ -35,7 +35,7 @@
 
 <a href="http://www.github.com/">
     <div align=center>
-    <img src="4.jpg" align="center"  width="480" >
+    <img src="timg.gif" align="center"  width="120" >
         </div> 
     </a>
 
