@@ -25,9 +25,9 @@
 1.[点击这里链接到我的博客](https://blog.csdn.net/u014421797)
 
 ### 只显示图片
-<center>   
-<div align=center><img src="4.jpg" align="center" width="25%" height="25%"/> </div>  
-</center>
+<div align=center>
+    <img src="4.jpg" align="center" width="25%" height="25%"/> 
+    </div>  
 <p align="center">Figure 幸福</p>
 
 
