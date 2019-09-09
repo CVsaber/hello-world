@@ -31,7 +31,7 @@
 <p align="center">Figure 幸福</p>
 
 
-### 想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
+### 点击图片进入www.github.com
 
 <a href="http://www.github.com/">
     <div align=center>
