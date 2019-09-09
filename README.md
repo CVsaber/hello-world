@@ -25,7 +25,7 @@
 1.[点击这里链接到我的博客](https://blog.csdn.net/u014421797)
 
 ### 只显示图片
-![a](4.jpg)
+<a href="url"><img src="4.jpg" align="left" height="48" width="48" ></a>
 
 ### 想点击某个图片进入一个网页,比如我想点击github的icorn然后再进入www.github.com
 
