@@ -35,9 +35,11 @@
 
 ### 点击图片进入www.github.com
 
-[www.github.com]: <img src="timg.gif" style="zoom:25%;" />
+<img src="timg.gif" style="zoom:25%;" />
 
-<p align="center">github链接</p>
+[^github链接]: 
+
+[www.github.com]: 
 
 ### 文字被些字符包围
 
