@@ -20,27 +20,25 @@
     每行都输入两个tab即可
     #include<stdio.h>
     printf("hello world\n")
-    
+
 ### 链接
 1.[点击这里链接到我的博客](https://blog.csdn.net/u014421797)
 
 ### 只显示图片
+
+<img src="4.jpg" style="zoom: 25%;" />
+
 <div align=center>
     <img src="4.jpg" align="center" width="25%" height="25%"/> 
     </div>  
 <p align="center">Figure 幸福</p>
 
-
 ### 点击图片进入www.github.com
 
-<a href="http://www.github.com/">
-    <div align=center>
-    <img src="timg.gif" align="center"  width="120" >
-        </div> 
-    </a>
+[www.github.com]: <img src="timg.gif" style="zoom:25%;" />
 
 <p align="center">github链接</p>
-        
+
 ### 文字被些字符包围
 
 > \###########环绕字符
